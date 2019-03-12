@@ -1,0 +1,20 @@
+@media(max-width: 800px) {
+	#logo {
+		display: none;
+	}
+	section {
+		float: none;
+	}
+	aside {
+		float: none;
+		width: 70%;
+	}
+	#contenido {
+		width: 700px;
+		margin: 0 auto;
+	}
+	.cuerpo {
+		float: none;
+		background: antiquewhite;
+	}
+}
